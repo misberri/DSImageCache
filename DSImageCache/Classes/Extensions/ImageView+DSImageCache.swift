@@ -263,5 +263,5 @@ extension ImageView {
 }
 
 extension ImageView {
-    func shouldPreloadAllGIF() -> Bool { return true }
+    @objc func shouldPreloadAllGIF() -> Bool { return true }
 }

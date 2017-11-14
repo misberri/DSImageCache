@@ -444,7 +444,7 @@ extension DSImageCache where Base: Image {
     ///
     /// - returns: An image with color control applied.
     public func adjusted(brightness: CGFloat, contrast: CGFloat, saturation: CGFloat, inputEV: CGFloat) -> Image {
-            return apply(.colorControl(brightness, contrast, saturation, inputEV))
+            return apply(.colorControl((brightness, contrast, saturation, inputEV)))
     }
 }
 

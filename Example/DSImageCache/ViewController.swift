@@ -23,7 +23,7 @@ class ViewController: UICollectionViewController {
         
         refreshControl = UIRefreshControl()
         refreshControl.attributedTitle = NSAttributedString(string: "Pull to refresh")
-        refreshControl.addTarget(self, action: #selector(refreshData(sender:)), for: UIControlEvents.valueChanged)
+        refreshControl.addTarget(self, action: #selector(refreshData), for: UIControlEvents.valueChanged)
         if #available(iOS 10.0, *) {
             collectionView?.refreshControl = refreshControl
         } else {
@@ -39,7 +39,7 @@ class ViewController: UICollectionViewController {
         // Dispose of any resources that can be recreated.
     }
     
-    func refreshData(sender:AnyObject) {
+    @objc func refreshData(sender:AnyObject) {
         // Code to refresh collection view
         refreshControl.endRefreshing()
         self.getWebApiData()

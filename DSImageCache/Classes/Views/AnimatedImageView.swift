@@ -337,6 +337,7 @@ class Animator {
 }
 
 extension CGImageSource: DSImageCacheCompatible { }
+
 extension DSImageCache where Base: CGImageSource {
     func gifProperties(at index: Int) -> [String: Double]? {
         let properties = CGImageSourceCopyPropertiesAtIndex(base, index, nil) as Dictionary?
