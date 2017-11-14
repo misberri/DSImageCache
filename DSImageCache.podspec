@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DSImageCache'
-  s.version          = '0.1.1'
+  s.version          = '0.1.11'
   s.summary          = 'A lightweight and pure Swift implemented library for downloading and cacheing image from the web.'
 
 # This description is used to generate tags and improve search results.
@@ -26,7 +26,8 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/dsonara/DSImageCache.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.platform = :ios, "10.0"
+  s.ios.deployment_target = '10.0'
 
   s.source_files = 'DSImageCache/Classes/**/*'
   
