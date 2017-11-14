@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DSImageCache'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A lightweight and pure Swift implemented library for downloading and cacheing image from the web.'
 
 # This description is used to generate tags and improve search results.
