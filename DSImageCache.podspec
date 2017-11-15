@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DSImageCache'
-  s.version          = '0.1.11'
+  s.version          = '0.1.12'
   s.summary          = 'A lightweight and pure Swift implemented library for downloading and cacheing image from the web.'
 
 # This description is used to generate tags and improve search results.
@@ -20,22 +20,13 @@ Pod::Spec.new do |s|
   s.description      = 'DSImageCache is a lightweight, pure-Swift library for downloading and caching images from the web. This project is heavily inspired by the popular SDWebImage. It provides you a chance to use a pure-Swift alternative in your next app.'
 
   s.homepage         = 'https://github.com/dsonara/DSImageCache'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'dsonara' => 'dsonara@mobiquityinc.com' }
-  s.source           = { :git => 'https://github.com/dsonara/DSImageCache.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => 'https://github.com/misberri/DSImageCache.git', :tag => s.version.to_s }
 
   s.platform = :ios, "10.0"
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'DSImageCache/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'DSImageCache' => ['DSImageCache/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end
