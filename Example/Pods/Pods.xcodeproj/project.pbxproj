@@ -56,19 +56,19 @@
 		17FC13221B7808AE31AE61AF72A81E4A /* Pods-DSImageCache_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DSImageCache_Example-dummy.m"; sourceTree = "<group>"; };
 		1ABB8AAA299288A36D7BAFFC92A7559D /* ImageTransition.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ImageTransition.swift; sourceTree = "<group>"; };
 		1B139E10A01E60EAFE5FD948551A02EE /* Pods-DSImageCache_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DSImageCache_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		1DB2507126A52961E88735BBD4E7A862 /* DSImageCache.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = DSImageCache.modulemap; sourceTree = "<group>"; };
+		1DB2507126A52961E88735BBD4E7A862 /* DSImageCache.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = DSImageCache.modulemap; sourceTree = "<group>"; };
 		2176D2B683303FA21092CA355782BB0F /* Box.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Box.swift; sourceTree = "<group>"; };
 		21A3DFEA3039B234BDC665CAFC3996C1 /* Pods-DSImageCache_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DSImageCache_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		24B05830F1DB8050BA42112AE45C6989 /* DSImageCacheOptionsInfo.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = DSImageCacheOptionsInfo.swift; sourceTree = "<group>"; };
 		2A9063E736A819A232415730D7A2CBFA /* Pods-DSImageCache_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DSImageCache_Tests-umbrella.h"; sourceTree = "<group>"; };
 		3424DC6EA7445C1EEA8E441D13A2EA45 /* RequestModifier.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = RequestModifier.swift; sourceTree = "<group>"; };
 		49E9A16CE805C30B7D5EEAEDB7CF7A89 /* String+MD5.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "String+MD5.swift"; sourceTree = "<group>"; };
-		4C10A8D396C1C377384DF9D67CBDEC17 /* Pods-DSImageCache_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-DSImageCache_Tests.modulemap"; sourceTree = "<group>"; };
+		4C10A8D396C1C377384DF9D67CBDEC17 /* Pods-DSImageCache_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-DSImageCache_Tests.modulemap"; sourceTree = "<group>"; };
 		4CC6463070BB70BCC9407AE8352E364A /* AnimatedImageView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = AnimatedImageView.swift; sourceTree = "<group>"; };
-		4D6E25C041F32CA6A001965C8A77174B /* Pods_DSImageCache_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DSImageCache_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4D6E25C041F32CA6A001965C8A77174B /* Pods_DSImageCache_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_DSImageCache_Example.framework; path = "Pods-DSImageCache_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		512BC38E861915395218DF94C8387DFF /* DSImageCache-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DSImageCache-umbrella.h"; sourceTree = "<group>"; };
 		54E02A457DEC1D677B89DDDA95DCCA72 /* UIButton+DSImageCache.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "UIButton+DSImageCache.swift"; sourceTree = "<group>"; };
-		59AEDB57614701D85977FEBA8BC599DD /* Pods-DSImageCache_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-DSImageCache_Example.modulemap"; sourceTree = "<group>"; };
+		59AEDB57614701D85977FEBA8BC599DD /* Pods-DSImageCache_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-DSImageCache_Example.modulemap"; sourceTree = "<group>"; };
 		5E62954E6F96DBA2A45447ED17A5A6A2 /* Pods-DSImageCache_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DSImageCache_Tests-dummy.m"; sourceTree = "<group>"; };
 		5F1ADCEE2A709FFE6E023BF110D4250B /* Filter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Filter.swift; sourceTree = "<group>"; };
 		6242E2F4B620EC78CCAA24554E2C2434 /* Indicator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Indicator.swift; sourceTree = "<group>"; };
@@ -82,7 +82,7 @@
 		75FDB7AEF6D474362D2A167F6F9B596B /* ThreadHelper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ThreadHelper.swift; sourceTree = "<group>"; };
 		7A486A3C01ED8F3CCB18C50F99047B24 /* ImagePrefetcher.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ImagePrefetcher.swift; sourceTree = "<group>"; };
 		89D4790B387500423C0BD6B831E16C10 /* Pods-DSImageCache_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DSImageCache_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		972B31436C6B6DABC9E72FE67E22AB41 /* Pods-DSImageCache_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DSImageCache_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		A23947CDD1B5F879D3FE342569300D92 /* Pods-DSImageCache_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DSImageCache_Example-resources.sh"; sourceTree = "<group>"; };
 		A632D805EBF2BFE3357A83E912CA2D99 /* CacheSerializer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CacheSerializer.swift; sourceTree = "<group>"; };
@@ -90,12 +90,12 @@
 		BD79B180104DA30B71ABF2246C1F65F1 /* Resource.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Resource.swift; sourceTree = "<group>"; };
 		C0A5A26BE2F8575AFDC0348391916BB0 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C2C98D70A77C6867FD504D8754E34873 /* Pods-DSImageCache_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DSImageCache_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		C8679FE96B8E7D3964322C63C634B9A9 /* Pods_DSImageCache_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DSImageCache_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C8679FE96B8E7D3964322C63C634B9A9 /* Pods_DSImageCache_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_DSImageCache_Tests.framework; path = "Pods-DSImageCache_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC08829CA8C3479FCFCBFD3D2CA5915D /* ImageCache.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ImageCache.swift; sourceTree = "<group>"; };
 		CE32F89D13F3A74478B18309955E92B8 /* Pods-DSImageCache_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DSImageCache_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		D10D687B26B96FFBC40579D0DF05B28C /* DSImageCache-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "DSImageCache-dummy.m"; sourceTree = "<group>"; };
 		D1964D60B7A0ED530A1E7BAA72629CA0 /* DSImageCache-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DSImageCache-prefix.pch"; sourceTree = "<group>"; };
-		DCCF5BFCF8990FFC8C2DCCBCBCADC199 /* DSImageCache.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DSImageCache.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DCCF5BFCF8990FFC8C2DCCBCBCADC199 /* DSImageCache.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = DSImageCache.framework; path = DSImageCache.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E478FC5C5013F75AC89BBDF9615EA1F5 /* Pods-DSImageCache_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DSImageCache_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		E8B44FF080C754C7EDD7DF4FC4EA7275 /* DSImageCacheManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = DSImageCacheManager.swift; sourceTree = "<group>"; };
 		E9ACFE93473AA4D90B6F57A0BC9BB6A1 /* DSImageCache.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DSImageCache.xcconfig; sourceTree = "<group>"; };
@@ -388,12 +388,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0900;
-				TargetAttributes = {
-					64C869D4FD9FC2577ED22D16D509FD5C = {
-						LastSwiftMigration = 0900;
-					};
-				};
+				LastUpgradeCheck = 0700;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -471,7 +466,41 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		114969F5F7384DD9889BE3B9758736D0 /* Release */ = {
+		06D921C44485365FD3FF4C3F2C404655 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 092D52F8BAC45607CE25B2B08ABFD02C /* Pods-DSImageCache_Example.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-DSImageCache_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-DSImageCache_Example/Pods-DSImageCache_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_DSImageCache_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		4DEBC2D55105804959FF8062F30E7F08 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E9ACFE93473AA4D90B6F57A0BC9BB6A1 /* DSImageCache.xcconfig */;
 			buildSettings = {
@@ -487,24 +516,22 @@
 				GCC_PREFIX_HEADER = "Target Support Files/DSImageCache/DSImageCache-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/DSImageCache/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/DSImageCache/DSImageCache.modulemap";
 				PRODUCT_NAME = DSImageCache;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
-		1CDAB5613991E411E5990BAF694995C5 /* Debug */ = {
+		7C07ED8089F70A31B83996A8910D7F18 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -553,7 +580,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -564,9 +591,9 @@
 			};
 			name = Debug;
 		};
-		61E89603F4FD78875BA4C3C0FD36339E /* Debug */ = {
+		846F041B7E51BC80EE77B24C742D5ABC /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 972B31436C6B6DABC9E72FE67E22AB41 /* Pods-DSImageCache_Tests.debug.xcconfig */;
+			baseConfigurationReference = E478FC5C5013F75AC89BBDF9615EA1F5 /* Pods-DSImageCache_Example.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -577,26 +604,60 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-DSImageCache_Tests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-DSImageCache_Example/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-DSImageCache_Tests/Pods-DSImageCache_Tests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-DSImageCache_Example/Pods-DSImageCache_Example.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_DSImageCache_Tests;
+				PRODUCT_NAME = Pods_DSImageCache_Example;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
-		7B62A85C412D689EF418FA67DA770A41 /* Release */ = {
+		8E6780DC0C7030EF695C9B88408ACE74 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E9ACFE93473AA4D90B6F57A0BC9BB6A1 /* DSImageCache.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/DSImageCache/DSImageCache-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/DSImageCache/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/DSImageCache/DSImageCache.modulemap";
+				PRODUCT_NAME = DSImageCache;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		98F29E7567052F62660DDD7069ADF73C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -642,117 +703,16 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
 		};
-		8A91D7AF1F4DCBAD5EDD18F4BF7ECE2A /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E478FC5C5013F75AC89BBDF9615EA1F5 /* Pods-DSImageCache_Example.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-DSImageCache_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-DSImageCache_Example/Pods-DSImageCache_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_DSImageCache_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		9B76036FB55213440756CABA63D7B230 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 092D52F8BAC45607CE25B2B08ABFD02C /* Pods-DSImageCache_Example.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-DSImageCache_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-DSImageCache_Example/Pods-DSImageCache_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_DSImageCache_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		CC1CA0141521137F8E14C70B30059FB6 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E9ACFE93473AA4D90B6F57A0BC9BB6A1 /* DSImageCache.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/DSImageCache/DSImageCache-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/DSImageCache/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/DSImageCache/DSImageCache.modulemap";
-				PRODUCT_NAME = DSImageCache;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		DC34EE1ED05919EB51CA958ADC078F89 /* Release */ = {
+		AD36DA13E1ED96A804BB2A08D8D40F4E /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 89D4790B387500423C0BD6B831E16C10 /* Pods-DSImageCache_Tests.release.xcconfig */;
 			buildSettings = {
@@ -767,7 +727,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-DSImageCache_Tests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-DSImageCache_Tests/Pods-DSImageCache_Tests.modulemap";
@@ -785,14 +745,46 @@
 			};
 			name = Release;
 		};
+		DE0BC034732C97529FB1D0AFD6906319 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 972B31436C6B6DABC9E72FE67E22AB41 /* Pods-DSImageCache_Tests.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-DSImageCache_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-DSImageCache_Tests/Pods-DSImageCache_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_DSImageCache_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
 		0B302B3C357DB029F7F35932B1ED417F /* Build configuration list for PBXNativeTarget "DSImageCache" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CC1CA0141521137F8E14C70B30059FB6 /* Debug */,
-				114969F5F7384DD9889BE3B9758736D0 /* Release */,
+				4DEBC2D55105804959FF8062F30E7F08 /* Debug */,
+				8E6780DC0C7030EF695C9B88408ACE74 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -800,8 +792,8 @@
 		12A8A5680980BFEFE21FABB9A498CC18 /* Build configuration list for PBXNativeTarget "Pods-DSImageCache_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				61E89603F4FD78875BA4C3C0FD36339E /* Debug */,
-				DC34EE1ED05919EB51CA958ADC078F89 /* Release */,
+				DE0BC034732C97529FB1D0AFD6906319 /* Debug */,
+				AD36DA13E1ED96A804BB2A08D8D40F4E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -809,8 +801,8 @@
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1CDAB5613991E411E5990BAF694995C5 /* Debug */,
-				7B62A85C412D689EF418FA67DA770A41 /* Release */,
+				7C07ED8089F70A31B83996A8910D7F18 /* Debug */,
+				98F29E7567052F62660DDD7069ADF73C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -818,8 +810,8 @@
 		E2FCDA5623E24323382495B5DE7326AD /* Build configuration list for PBXNativeTarget "Pods-DSImageCache_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8A91D7AF1F4DCBAD5EDD18F4BF7ECE2A /* Debug */,
-				9B76036FB55213440756CABA63D7B230 /* Release */,
+				846F041B7E51BC80EE77B24C742D5ABC /* Debug */,
+				06D921C44485365FD3FF4C3F2C404655 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

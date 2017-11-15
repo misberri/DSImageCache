@@ -1,5 +1,5 @@
 PODS:
-  - DSImageCache (0.1.0)
+  - DSImageCache (0.1.12)
 
 DEPENDENCIES:
   - DSImageCache (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  DSImageCache: f3cd9cbcc1d8fa77ca7b02a2486300891a3eca85
+  DSImageCache: f4b9230209d5ae33849d8e4ba9a2f8f9e73d99fa
 
 PODFILE CHECKSUM: 03563a69c75715176dda9a2acc0864c67ee67781
 

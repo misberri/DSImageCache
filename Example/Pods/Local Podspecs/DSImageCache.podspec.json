@@ -1,6 +1,6 @@
 {
   "name": "DSImageCache",
-  "version": "0.1.0",
+  "version": "0.1.12",
   "summary": "A lightweight and pure Swift implemented library for downloading and cacheing image from the web.",
   "description": "DSImageCache is a lightweight, pure-Swift library for downloading and caching images from the web. This project is heavily inspired by the popular SDWebImage. It provides you a chance to use a pure-Swift alternative in your next app.",
   "homepage": "https://github.com/dsonara/DSImageCache",
@@ -12,11 +12,11 @@
     "dsonara": "dsonara@mobiquityinc.com"
   },
   "source": {
-    "git": "https://github.com/dsonara/DSImageCache.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/misberri/DSImageCache.git",
+    "tag": "0.1.12"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "10.0"
   },
   "source_files": "DSImageCache/Classes/**/*"
 }

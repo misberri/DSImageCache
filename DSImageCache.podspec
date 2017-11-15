@@ -28,5 +28,8 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'DSImageCache/Classes/**/*'
-  
+
+  s.pod_target_xcconfig = {
+    'SWIFT_VERSION' => '4.0',
+  }  
 end
